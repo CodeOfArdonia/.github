@@ -1,0 +1,22 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📋 Checklist
+    url: https://docs.iafenvoy.com/docs/checklist
+    about: Read this checklist before report any issue.
+  - name: 📖 Documentation
+    url: https://docs.iafenvoy.com/
+    about: Read documentation first to check whether your questions have answered.
+  - name: 💬 Discord
+    url: https://discord.gg/NDzz2upqAk
+    about: For more in-depth discussions, please join my Discord.
+  - name: 💬 QQ
+    url: https://qm.qq.com/q/60FjNvs3pS
+    about: 如果需要更深入的讨论，请加入QQ群966154502
+
+templates:
+  - name: 🐞 Bug Report
+    about: File a bug report.
+    template: bug.yml
+  - name: ✨ Suggestion
+    about: Submit an idea or capability request.
+    template: suggestion.yml
